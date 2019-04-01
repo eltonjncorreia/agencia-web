@@ -39,3 +39,6 @@ hr.light {
 .page-section {
   padding: 8rem 0;
 }
+.page-section.masthead{
+    background: linear-gradient(to bottom, #{fade-out($brown, .2)} 0%,#{fade-out($brown, .2)} 100%), url('../img/bg-masthead.jpg');
+}
