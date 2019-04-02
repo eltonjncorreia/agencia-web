@@ -10601,7 +10601,7 @@ hr.light {
   background: linear-gradient(to bottom, #3b679e 0%, #2b88d9 50%, #207cca 51%, #7db9e8 100%);
 }
 
-.azul-gradiente a {
+a.email-color {
   color: rgba(255, 255, 255, 0.75);
 }
 
